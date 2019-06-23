@@ -1,11 +1,7 @@
 # csc413-SecondGame
 
 ## Student Name : Alexander Louie
-## Student ID : 916124851
 
-
-# Repo Link:
-https://github.com/csc413-01-fa18/csc413-secondgame-louiealex
 
 
 # Project Build Info: 
